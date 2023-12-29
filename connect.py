@@ -1,6 +1,7 @@
 import os
 import sys
 print('hackUI connect v1')
+# v1原有功能
 print('请输入你的服务器地址')
 ip = input('ip:')
 print(ip,'连接成功')

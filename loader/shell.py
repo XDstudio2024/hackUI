@@ -50,3 +50,4 @@ while True:
         for i in tqdm(range(10),desc='正在尝试连接',colour = 'green'):
             time.sleep(0.1)
         print('系统已还原!')
+# 此功能已归档
